@@ -1,0 +1,4 @@
+DOWNLOAD_BASE = 'http://gisarchive.cnra.ca.gov/iso/ImageryBaseMapsLandCover/NAIP/naip2016/NAIP_2016_DOQQ/Data/TIFF/'
+COVERAGE_SHP_PATH = '/local/path/to/coverage/'
+COVERAGE_FILENAME = 'coverage_filename.shp'
+DESTINATION_DIRECTORY_BASE = '/folder/where/to/put/your/rasters/'
